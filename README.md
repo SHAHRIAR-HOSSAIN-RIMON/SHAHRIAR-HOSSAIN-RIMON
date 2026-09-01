@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shahriar Hossain Rimon
 
-### Backend Development Enthusiast | Deep Learning Learner
+### Backend Developper | Deep Learning Learner
 
 ---
 

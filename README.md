@@ -80,26 +80,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=SHAHRIAR-HOSSAIN-RIMON&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=SHAHRIAR-HOSSAIN-RIMON&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SHAHRIAR-HOSSAIN-RIMON&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=SHAHRIAR-HOSSAIN-RIMON&theme=dark&hide_border=false" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SHAHRIAR-HOSSAIN-RIMON&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-</p>
-
 ---
 
-## 🔝 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SHAHRIAR-HOSSAIN-RIMON&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
----
 
 ## ✍️ Random Dev Quote
 

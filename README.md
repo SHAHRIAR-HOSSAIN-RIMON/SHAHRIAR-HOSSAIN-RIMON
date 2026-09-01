@@ -1,137 +1,114 @@
-<div align="center">
+# 👋 Hi, I'm Shahriar Hossain Rimon
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shahriar%20Hossain%20Rimon&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+backends+with+Django;Crafting+ML+pipelines+%26+data+stories;Competitive+programmer+%40+Codeforces;Open+to+remote+internships+%26+freelance)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahriar-hossain-rimon-6545872b9/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdshrhussain@gmail.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
-[![Profile Views](https://komarev.com/ghpvc/?username=SHAHRIAR-HOSSAIN-RIMON&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/SHAHRIAR-HOSSAIN-RIMON)
-
-</div>
+### Backend Development Enthusiast | Deep Learning Learner
 
 ---
 
 ## 🧬 About Me
 
-```python
-class Rimon:
-    name       = "Shahriar Hossain Rimon"
-    university = "University of Asia Pacific, Dhaka 🇧🇩"
-    semester   = "5th — Computer Science & Engineering"
-    roles      = ["Full-Stack Developer", "ML Learner", "Competitive Programmer"]
+🔭 I'm currently working on **Backend Development and Deep Learning**
 
-    stack = {
-        "backend"   : ["Django", "FastAPI", "Flask", "Python"],
-        "frontend"  : ["React", "TypeScript", "TailwindCSS"],
-        "ml"        : ["scikit-learn", "TensorFlow", "Pandas", "NumPy"],
-        "databases" : ["PostgreSQL", "MySQL", "MongoDB", "SQLite"],
-        "devops"    : ["Docker", "Git", "Vercel", "Render"],
-    }
+👯 I'm looking to collaborate on **projects and research**
 
-    currently  = ["Learning ML & NLP", "Building BloodBridge 🩸", "Hunting remote internships"]
-    interests  = ["Micro-SaaS", "AI Automation", "Competitive Programming"]
+🤝 I'm looking to **learn and grow in Software Engineering**
 
-    def hello(self):
-        return "Let's build something meaningful 🚀"
-```
+🌱 I'm currently learning **Deep Learning and ASP.NET**
+
+💬 Ask me about **technology, programming, or development**
+
+⚡ Fun fact: **Still trying to figure that out 😄**
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🌐 Connect With Me
 
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ML & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-
-### Databases & DevOps
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahriar-hossain-rimon-6545872b9)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdshrhussain@gmail.com)
 
 ---
 
-## 📊 GitHub Intelligence
+# 💻 Tech Stack
 
-<div align="center">
+### 🧠 Languages
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SHAHRIAR-HOSSAIN-RIMON&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAHRIAR-HOSSAIN-RIMON&layout=compact&theme=tokyonight&count_private=true&border_radius=12&hide_border=true"/>
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-</div>
+### 🌐 Web & Backend
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SHAHRIAR-HOSSAIN-RIMON&theme=tokyonight&hide_border=true&border_radius=12" />
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-<br/>
+### 🗄️ Databases & Backend Services
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAHRIAR-HOSSAIN-RIMON&theme=tokyo-night&hide_border=true&radius=8&area=true" width="95%"/>
-</div>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🤖 Deep Learning & Data
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+
+### 🛠️ Tools & Deployment
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
-## 🏆 Achievements
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=SHAHRIAR-HOSSAIN-RIMON&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+</p>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=SHAHRIAR-HOSSAIN-RIMON&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SHAHRIAR-HOSSAIN-RIMON&theme=dark&hide_border=false" />
+</p>
 
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=SHAHRIAR-HOSSAIN-RIMON&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SHAHRIAR-HOSSAIN-RIMON&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</p>
 
 ---
 
-## 💡 Dev Thought of the Day
+## 🔝 Top Contributed Repositories
 
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=SHAHRIAR-HOSSAIN-RIMON&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
 
 ---
 
-<div align="center">
+## ✍️ Random Dev Quote
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+---
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SHAHRIAR-HOSSAIN-RIMON&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>

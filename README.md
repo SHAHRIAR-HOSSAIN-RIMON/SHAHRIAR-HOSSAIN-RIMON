@@ -1,107 +1,169 @@
-<!-- Header banner -->
+<!-- ============ HERO ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=220&section=header&text=Shahriar%20Hossain%20Rimon&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20Deep%20Learning%20Learner&descAlignY=58&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:06B6D4&height=230&section=header&text=Shahriar%20Hossain%20Rimon&fontSize=40&fontColor=FFFFFF&fontAlignY=36&desc=CS%20Student%20%7C%20Algorithms%20%7C%20Machine%20Learning%20%7C%20Software%20Systems&descSize=16&descAlignY=56&animation=fadeIn" width="100%" alt="Shahriar Hossain Rimon banner"/>
 </p>
 
-<!-- Animated typing line -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+full-stack+apps+with+Python+%26+ASP.NET;Learning+Deep+Learning+with+PyTorch;Turning+ideas+into+working+software;Open+to+collaborating+on+projects+%26+research" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=760&lines=Solving+problems+with+data+structures+and+algorithms;Learning+Machine+Learning+and+Deep+Learning+with+PyTorch;Building+full-stack+apps+and+APIs;Turning+ideas+into+working+products" alt="Typing animation"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shahriar-hossain-rimon-6545872b9">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mdshrhussain@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <!-- Add your LeetCode link below, then remove these comment marks
-  <a href="https://leetcode.com/u/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  -->
-  <img src="https://komarev.com/ghpvc/?username=SHAHRIAR-HOSSAIN-RIMON&style=for-the-badge&label=PROFILE+VIEWS&color=blue" alt="views" />
+  <a href="https://linkedin.com/in/shahriar-hossain-rimon-6545872b9"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mdshrhussain@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/SHAHRIAR-HOSSAIN-RIMON"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=SHAHRIAR-HOSSAIN-RIMON&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
+
+<!-- Optional: add LeetCode / Codeforces badge here
+<a href="https://leetcode.com/u/YOUR_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+-->
 
 ---
 
-## 👋 About Me
+## `$ whoami`
 
-I'm a **software engineer in training**, studying Computer Science & Engineering at the **University of Asia Pacific** . I build and ship complete products: full-stack web apps, clean REST APIs, secure authentication, real-time features, and AI-powered search. I work across **Python (Django)**, **C# (ASP.NET Core)** and **TypeScript (Next.js)**, and I care about solid fundamentals in data structures, algorithms, and system design.
+I'm a Computer Science & Engineering student at the **University of Asia Pacific**. I practice data structures and algorithms, study machine learning and deep learning (currently with PyTorch), and build full-stack products with solid system-design fundamentals: REST APIs, secure authentication, real-time features, and AI-powered search.
 
-- 🔭 Building **full-stack applications** with Django REST Framework, ASP.NET Core and Next.js
-- 🤖 Integrating **AI and semantic search** into real products
-- 🌱 Currently learning **Deep Learning (PyTorch)** and going deeper into **ASP.NET**
-- 🧩 Practicing **data structures & algorithms** through contests and hackathons
-- 👯 Open to **collaborating on projects and research**
-- 🎯 Looking for **software engineering internships and entry-level roles**
+```python
+class Developer:
+    name            = "Shahriar Hossain Rimon"
+    studying        = "CSE @ University of Asia Pacific"
+    problem_solving = ["Data Structures", "Algorithms", "Contests & Hackathons"]
+    ai_ml           = ["Machine Learning", "Deep Learning (PyTorch)", "Semantic Search"]
+    engineering     = ["System Design", "REST API Design", "Auth & RBAC", "Real-time Systems"]
+    languages       = ["Python", "C#", "TypeScript", "C", "C++", "Java", "JavaScript"]
+    open_to         = ["Internships", "Entry-level roles", "Research", "Collaboration"]
+
+    def motto(self):
+        return "Build with curiosity. Engineer with purpose."
+```
+
+| Now | Details |
+|---|---|
+| 🧩 **Practicing** | Data structures and algorithms through contests and hackathons |
+| 🧠 **Learning** | Machine learning and deep learning with PyTorch |
+| 🔭 **Building** | Full-stack apps with APIs, auth, real-time features, and AI search |
+| 🎯 **Looking for** | Software engineering internships, entry-level roles, research |
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Tech |
-|---|---|---|
-| 🛒 [**Sports Gear Marketplace**](https://github.com/SHAHRIAR-HOSSAIN-RIMON/sportsgear) | Full-stack platform for selling and renting sports equipment, with buyer/seller roles, **real-time chat (WebSockets)**, wallet and mock payment/refund flows, reviews, reporting, and a seller analytics dashboard. | Django, DRF, Channels, PostgreSQL, Next.js, TypeScript |
-| 🧠 [**KnowledgeHub**](https://github.com/SHAHRIAR-HOSSAIN-RIMON/KnowledgeHub) | AI-powered knowledge management system with hierarchical pages, version history, file attachments, **semantic search via OpenRouter**, workspace permissions, team invites, and audit trails. | Django REST Framework, PostgreSQL, OpenRouter API |
-| ✈️ **TravelMatch** *(team project, ongoing)* | Local guide and trip marketplace. I built registration and **JWT authentication with role-based authorization**, API endpoints and service-layer logic for trips and profiles, plus migrations and automated tests. | C#, ASP.NET Core Web API, EF Core, PostgreSQL |
-<!-- Add the TravelMatch repo link above, e.g. [**TravelMatch**](https://github.com/...) -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 Sports Gear Marketplace</h3>
+      <p>Full-stack marketplace for buying and renting sports equipment, with real-time chat and seller tools.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+        <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square" alt="DRF"/>
+        <img src="https://img.shields.io/badge/Channels-WebSockets-0891B2?style=flat-square" alt="Channels"/>
+        <img src="https://img.shields.io/badge/Next.js-334155?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      </p>
+      <b>Highlights</b>
+      <ul>
+        <li>Buyer and seller workflows</li>
+        <li>Real-time chat with WebSockets</li>
+        <li>Wallet and mock payment/refund flows</li>
+        <li>Reviews, reporting, seller analytics dashboard</li>
+      </ul>
+      <p><a href="https://github.com/SHAHRIAR-HOSSAIN-RIMON/sportsgear"><b>Explore repository →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 KnowledgeHub</h3>
+      <p>AI-powered knowledge management platform that organizes information and makes it easy to find.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white" alt="Django REST"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/AI-Semantic_Search-7C3AED?style=flat-square" alt="Semantic search"/>
+        <img src="https://img.shields.io/badge/OpenRouter-API-334155?style=flat-square" alt="OpenRouter"/>
+      </p>
+      <b>Highlights</b>
+      <ul>
+        <li>Hierarchical pages and version history</li>
+        <li>Semantic search via OpenRouter</li>
+        <li>File attachments and workspace permissions</li>
+        <li>Team invitations and audit trails</li>
+      </ul>
+      <p><a href="https://github.com/SHAHRIAR-HOSSAIN-RIMON/KnowledgeHub"><b>Explore repository →</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>✈️ TravelMatch <sup>team project · in progress</sup></h3>
+      <p>Collaborative trip marketplace connecting travelers with local guides and tour organizers through trip requests, proposals, and organized travel experiences.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
+        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+        <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square" alt="EF Core"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/JWT-RBAC-334155?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT and RBAC"/>
+      </p>
+      <b>My contributions</b>
+      <ul>
+        <li>Registration, JWT authentication, role-based authorization</li>
+        <li>Trip request and profile API endpoints with service-layer logic</li>
+        <li>Organized trip management and database migrations</li>
+        <li>Automated backend testing and API validation</li>
+      </ul>
+      <p><i>Layered architecture · Sandbox payment flows</i></p>
+      <!-- Add repo link: <p><a href="https://github.com/..."><b>Explore repository →</b></a></p> -->
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Arsenal
 
-**Languages**
+| Category | Tools |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,cs,cpp,c,java,js,ts" alt="Languages"/> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=django,dotnet,nextjs,react,tailwind" alt="Frameworks"/> |
+| **Data** | <img src="https://skillicons.dev/icons?i=postgres,sqlite" alt="Databases"/> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,netlify" alt="Tools"/> |
+| **ML / DL** | <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch"/> |
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,cs,py,js,ts" alt="languages" />
-
-**Frameworks & Web**
-
-<img src="https://skillicons.dev/icons?i=django,dotnet,nextjs,tailwind" alt="frameworks" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=postgres,sqlite" alt="databases" />
-
-**Tools & Deployment**
-
-<img src="https://skillicons.dev/icons?i=git,github,netlify,vscode,linux" alt="tools" />
-
-Also: **Django REST Framework · Entity Framework Core · Django Channels · JWT · Swagger · Render · REST API design · Role-based access control**
-
-**Currently learning:** <img src="https://skillicons.dev/icons?i=pytorch" height="24" alt="pytorch" align="center" /> PyTorch and Deep Learning
+**Also familiar with:** Django REST Framework · Django Channels · Entity Framework Core · JWT · Swagger/OpenAPI · REST API design · Role-based access control · Render
 
 ---
 
 ## 🏆 Achievements
 
-- 🥉 **5th Place**, GreenCon Hackathon 2025
-- 🎓 **Dean's Award ×2**, University of Asia Pacific, for academic excellence
-- 💻 Participant: IEEE Student Branch OSCILLION Programming Contest, Micro-Ops Hackathon (CUET CSE Fest 2025), BUP CSE Fest Hackathon, Technovation '25 (Programming Hero)
-- 📜 Certifications: Generative AI Productivity and Cybersecurity Fundamentals (LinkedIn Learning)
+| | Achievements & Activities |
+|:-:|---|
+| 🥉 | **5th Place**, GreenCon Hackathon 2025 |
+| 🎓 | **Dean's Award ×2**, University of Asia Pacific |
+| 💻 | IEEE Student Branch OSCILLION Programming Contest · Micro-Ops Hackathon (CUET CSE Fest 2025) · BUP CSE Fest Hackathon · Technovation '25 (Programming Hero) |
+| 📜 | Generative AI Productivity · Cybersecurity Fundamentals (LinkedIn Learning) |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=SHAHRIAR-HOSSAIN-RIMON&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SHAHRIAR-HOSSAIN-RIMON&theme=tokyonight&hide_border=true&layout=compact" alt="top languages" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=SHAHRIAR-HOSSAIN-RIMON&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SHAHRIAR-HOSSAIN-RIMON&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SHAHRIAR-HOSSAIN-RIMON&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=SHAHRIAR-HOSSAIN-RIMON&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Build Something
 
-Always happy to talk about software engineering, AI-powered apps, or hackathon ideas. Reach out on [LinkedIn](https://linkedin.com/in/shahriar-hossain-rimon-6545872b9) or by [email](mailto:mdshrhussain@gmail.com).
+Algorithms, machine learning, system design, or a hackathon idea: I'm always up for a good technical conversation.
 
-<!-- Footer banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=120&section=footer" alt="footer" />
+  <a href="https://linkedin.com/in/shahriar-hossain-rimon-6545872b9"><img src="https://img.shields.io/badge/Let's_connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mdshrhussain@gmail.com"><img src="https://img.shields.io/badge/Send_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:06B6D4&height=120&section=footer" width="100%" alt="Footer banner"/>
 </p>

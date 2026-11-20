@@ -1,24 +1,33 @@
 <!-- ============ HERO ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:06B6D4&height=230&section=header&text=Shahriar%20Hossain%20Rimon&fontSize=40&fontColor=FFFFFF&fontAlignY=36&desc=CS%20Student%20%7C%20Algorithms%20%7C%20Machine%20Learning%20%7C%20Software%20Systems&descSize=16&descAlignY=56&animation=fadeIn" width="100%" alt="Shahriar Hossain Rimon banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:164E63,100:06B6D4&height=260&section=header&text=Shahriar%20Hossain%20Rimon&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=CS%20Student%20%7C%20Algorithms%20%7C%20Machine%20Learning%20%7C%20Software%20Systems&descSize=16&descAlignY=58&animation=twinkling&stroke=06B6D4&strokeWidth=1" width="100%" alt="Shahriar Hossain Rimon banner"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=760&lines=Solving+problems+with+data+structures+and+algorithms;Learning+Machine+Learning+and+Deep+Learning+with+PyTorch;Building+full-stack+apps+and+APIs;Turning+ideas+into+working+products" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=780&lines=%3E+Solving+problems+with+data+structures+%26+algorithms;%3E+Training+models+with+PyTorch+%F0%9F%A7%A0;%3E+Building+full-stack+apps+and+APIs+%E2%9A%A1;%3E+Turning+ideas+into+working+products+%F0%9F%9A%80" alt="Typing animation"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/shahriar-hossain-rimon-6545872b9"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mdshrhussain@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/SHAHRIAR-HOSSAIN-RIMON"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/SHAHRIAR-HOSSAIN-RIMON"><img src="https://img.shields.io/github/followers/SHAHRIAR-HOSSAIN-RIMON?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=181717" alt="GitHub followers"/></a>
   <img src="https://komarev.com/ghpvc/?username=SHAHRIAR-HOSSAIN-RIMON&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 <!-- Optional: add LeetCode / Codeforces badge here
 <a href="https://leetcode.com/u/YOUR_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 -->
+
+<!-- ============ ROBOT (contribution scanner) ============ -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHAHRIAR-HOSSAIN-RIMON/SHAHRIAR-HOSSAIN-RIMON/output/robot-contrib-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHAHRIAR-HOSSAIN-RIMON/SHAHRIAR-HOSSAIN-RIMON/output/robot-contrib.svg"/>
+    <img src="https://raw.githubusercontent.com/SHAHRIAR-HOSSAIN-RIMON/SHAHRIAR-HOSSAIN-RIMON/output/robot-contrib-dark.svg" width="100%" alt="Robot scanning my contribution graph"/>
+  </picture>
+</p>
 
 ---
 
@@ -40,12 +49,14 @@ class Developer:
         return "Build with curiosity. Engineer with purpose."
 ```
 
-| Now | Details |
-|---|---|
-| 🧩 **Practicing** | Data structures and algorithms through contests and hackathons |
-| 🧠 **Learning** | Machine learning and deep learning with PyTorch |
-| 🔭 **Building** | Full-stack apps with APIs, auth, real-time features, and AI search |
-| 🎯 **Looking for** | Software engineering internships, entry-level roles, research |
+### 🎮 Quest Log
+
+| Status | Quest | Details |
+|:-:|---|---|
+| 🟢 | **Main Quest** | Building full-stack apps with APIs, auth, real-time features, and AI search |
+| 🟢 | **Skill Tree** | Machine learning and deep learning with PyTorch |
+| 🟡 | **Daily Grind** | Data structures and algorithms through contests and hackathons |
+| 🔵 | **Looking for Party** | Software engineering internships, entry-level roles, research |
 
 ---
 
@@ -119,21 +130,27 @@ class Developer:
 
 ## 🧰 Tech Arsenal
 
-| Category | Tools |
-|---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,cs,cpp,c,java,js,ts" alt="Languages"/> |
-| **Frameworks** | <img src="https://skillicons.dev/icons?i=django,dotnet,nextjs,react,tailwind" alt="Frameworks"/> |
-| **Data** | <img src="https://skillicons.dev/icons?i=postgres,sqlite" alt="Databases"/> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,netlify" alt="Tools"/> |
-| **ML / DL** | <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch"/> |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,c,java,js,ts&perline=7" alt="Languages"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=django,dotnet,nextjs,react,tailwind,pytorch&perline=6" alt="Frameworks and ML"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,git,github,linux,vscode,netlify&perline=7" alt="Data and tools"/>
+</p>
 
-**Also familiar with:** Django REST Framework · Django Channels · Entity Framework Core · JWT · Swagger/OpenAPI · REST API design · Role-based access control · Render
+<details>
+<summary><b>🔍 Also familiar with</b> (click to expand)</summary>
+<br/>
+
+Django REST Framework · Django Channels · Entity Framework Core · JWT · Swagger/OpenAPI · REST API design · Role-based access control · Render
+
+</details>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements Unlocked
 
-| | Achievements & Activities |
+| | Achievement |
 |:-:|---|
 | 🥉 | **5th Place**, GreenCon Hackathon 2025 |
 | 🎓 | **Dean's Award ×2**, University of Asia Pacific |
@@ -142,7 +159,7 @@ class Developer:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Player Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.shion.dev/api?username=SHAHRIAR-HOSSAIN-RIMON&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub stats"/>
@@ -150,7 +167,16 @@ class Developer:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SHAHRIAR-HOSSAIN-RIMON&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
+  <img src="https://streak-stats.demolab.com/?user=SHAHRIAR-HOSSAIN-RIMON&theme=tokyonight&hide_border=true&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" alt="Contribution streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAHRIAR-HOSSAIN-RIMON&bg_color=1a1b27&color=06B6D4&line=0891B2&point=FFFFFF&area=true&area_color=06B6D4&hide_border=true&radius=8" width="100%" alt="Contribution activity graph"/>
+</p>
+
+<!-- 3D contribution skyline (generated by .github/workflows/profile-3d.yml) -->
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution skyline"/>
 </p>
 
 ---
@@ -165,5 +191,5 @@ Algorithms, machine learning, system design, or a hackathon idea: I'm always up 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:06B6D4&height=120&section=footer" width="100%" alt="Footer banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:164E63,100:0F172A&height=120&section=footer&animation=twinkling" width="100%" alt="Footer banner"/>
 </p>

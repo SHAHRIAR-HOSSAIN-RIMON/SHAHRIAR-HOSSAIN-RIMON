@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 380" width="820" height="380">
+  <style>
+    text { font-family: Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', 'Courier New', monospace; font-size: 15px; fill: #3C3836; white-space: pre; }
+    .dim { fill: #928374; }
+    .usr { fill: #79740E; font-weight: bold; }
+    .path { fill: #AF3A03; }
+    .key { fill: #B57614; font-weight: bold; }
+    .bot { fill: #D65D0E; }
+    .name { font-size: 22px; font-weight: bold; fill: #282828; }
+
+    .type { animation: type 1s steps(16) .3s both; }
+    @keyframes type { from { width: 0 } to { width: 170px } }
+
+    .ln { opacity: 0; animation: show .01s linear both; }
+    @keyframes show { to { opacity: 1 } }
+
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0 } }
+
+    .tip { animation: blink 1.2s steps(1) infinite; }
+    .open { animation: eyesOpen 4s steps(1) infinite; }
+    .shut { animation: eyesShut 4s steps(1) infinite; }
+    @keyframes eyesOpen { 0% { opacity: 1 } 92% { opacity: 0 } 96% { opacity: 1 } }
+    @keyframes eyesShut { 0% { opacity: 0 } 92% { opacity: 1 } 96% { opacity: 0 } }
+  </style>
+
+  <defs>
+    <clipPath id="typed"><rect class="type" x="40" y="58" height="22" width="0"/></clipPath>
+    <clipPath id="win"><rect width="820" height="380" rx="10"/></clipPath>
+  </defs>
+
+  <!-- window -->
+  <g clip-path="url(#win)">
+    <rect width="820" height="380" fill="#FBF7EF"/>
+    <rect width="820" height="36" fill="#F2EADB"/>
+  </g>
+  <rect x="0.5" y="0.5" width="819" height="379" rx="10" fill="none" stroke="#E3D8C2"/>
+  <path d="M0.5 36.5H819.5" stroke="#E3D8C2"/>
+  <circle cx="22" cy="18" r="5.5" fill="#E5A79C"/>
+  <circle cx="40" cy="18" r="5.5" fill="#E8C98A"/>
+  <circle cx="58" cy="18" r="5.5" fill="#B5C99A"/>
+  <text x="410" y="23" text-anchor="middle" class="dim" style="font-size:13px">rimon — zsh</text>
+
+  <!-- $ neofetch -->
+  <text x="40" y="74" clip-path="url(#typed)"><tspan class="usr">rimon</tspan> <tspan class="path">~</tspan> $ neofetch</text>
+
+  <!-- ascii robot -->
+  <g class="ln" style="animation-delay:1.4s">
+    <text class="bot" x="40" y="132">        <tspan class="tip">(*)</tspan></text>
+    <text class="bot" x="40" y="152">         |</text>
+    <text class="bot" x="40" y="172">   +-----------+</text>
+    <text class="bot" x="40" y="192">   |  .-----.  |</text>
+    <text class="bot" x="40" y="212">   |  | <tspan class="open">o o</tspan> |  |</text>
+    <text class="bot shut" x="40" y="212">          - -</text>
+    <text class="bot" x="40" y="232">   |  '-----'  |</text>
+    <text class="bot" x="40" y="252">   +-----------+</text>
+    <text class="bot" x="40" y="272">    [@]=[@]=[@]</text>
+  </g>
+
+  <!-- info -->
+  <text class="ln name" x="250" y="116" style="animation-delay:1.45s">Shahriar Hossain Rimon</text>
+  <text class="ln dim" x="250" y="140" style="animation-delay:1.5s">----------------------------------------</text>
+  <text class="ln" x="250" y="166" style="animation-delay:1.6s"><tspan class="key">Study</tspan>      Computer Science &amp; Engineering</text>
+  <text class="ln" x="250" y="188" style="animation-delay:1.7s"><tspan class="key">Focus</tspan>      Algorithms · Machine Learning · Software Systems</text>
+  <text class="ln" x="250" y="210" style="animation-delay:1.8s"><tspan class="key">Languages</tspan>  Python  C#  TypeScript  C++  Java  C</text>
+  <text class="ln" x="250" y="232" style="animation-delay:1.9s"><tspan class="key">Stack</tspan>      Django  ASP.NET Core  Next.js  PostgreSQL</text>
+  <text class="ln" x="250" y="254" style="animation-delay:2.0s"><tspan class="key">ML</tspan>         PyTorch  Semantic Search</text>
+  <text class="ln" x="250" y="276" style="animation-delay:2.1s"><tspan class="key">Status</tspan>     open to internships, entry-level roles &amp; research</text>
+  <text class="ln" x="250" y="298" style="animation-delay:2.2s"><tspan class="key">Motto</tspan>      "Build with curiosity. Engineer with purpose."</text>
+
+  <!-- warm colour swatches -->
+  <g class="ln" style="animation-delay:2.3s">
+    <rect x="250" y="314" width="28" height="14" fill="#3C3836"/>
+    <rect x="278" y="314" width="28" height="14" fill="#9D0006"/>
+    <rect x="306" y="314" width="28" height="14" fill="#AF3A03"/>
+    <rect x="334" y="314" width="28" height="14" fill="#D65D0E"/>
+    <rect x="362" y="314" width="28" height="14" fill="#B57614"/>
+    <rect x="390" y="314" width="28" height="14" fill="#79740E"/>
+    <rect x="418" y="314" width="28" height="14" fill="#427B58"/>
+    <rect x="446" y="314" width="28" height="14" fill="#D5C4A1"/>
+  </g>
+
+  <!-- next prompt -->
+  <text class="ln" x="40" y="356" style="animation-delay:2.5s"><tspan class="usr">rimon</tspan> <tspan class="path">~</tspan> $ <tspan class="cursor">█</tspan></text>
+</svg>

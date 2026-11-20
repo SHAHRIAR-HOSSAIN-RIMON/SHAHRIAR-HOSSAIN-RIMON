@@ -25,13 +25,13 @@ const BOTTOM = 18;
 const SEC_PER_CELL = 0.055; // robot speed
 const INTRO = 0.9; // grid fades in before the robot arrives
 const OUTRO = 1.4; // empty grid after the robot leaves
-const BEAM = "#06B6D4";
+const BEAM = "#D65D0E";
 
 const THEMES = {
   light: {
     levels: ["#ebedf0", "#9be9a8", "#40c463", "#30a14e", "#216e39"],
     text: "#57606a",
-    accent: "#0891B2",
+    accent: "#AF3A03",
     body: "#E2E8F0",
     outline: "#334155",
     tread: "#334155",
@@ -41,7 +41,7 @@ const THEMES = {
   dark: {
     levels: ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"],
     text: "#8b949e",
-    accent: "#06B6D4",
+    accent: "#E78A4E",
     body: "#CBD5E1",
     outline: "#64748B",
     tread: "#1E293B",
